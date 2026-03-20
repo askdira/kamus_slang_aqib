@@ -1031,6 +1031,7 @@ update,memperbarui
 pin,sandi
 rb,ribu
 OTP, One-Time Password
+otp, One-Time Password
 ribet, rumit
 upgrade, memperbarui
 kenapah, kenapa
@@ -1060,3 +1061,6 @@ udh, udah
 loading, memuat
 transfer, mengirim
 kode otp, kode one-time password
+gk, tidak
+login, masuk
+download, unduh
